@@ -13,9 +13,7 @@ class MainActivity : AppCompatActivity() {
 
         var model: Model
         setOnClickListenerB()
-
-
-
+        
     }
 
     private fun setOnClickListenerB(){
